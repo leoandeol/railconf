@@ -1,2 +1,3 @@
-# railconf
-Railway signaling dataset Conformal Prediction 
+# Railway Signaling Dataset for Conformal Prediction 
+
+Submitted to COPA
